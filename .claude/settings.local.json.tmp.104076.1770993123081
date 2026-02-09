@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(uv --version:*)",
+      "Bash(pnpm --version:*)",
+      "Bash(node --version:*)",
+      "Bash(uv sync:*)",
+      "Bash(powershell -Command:*)",
+      "Bash(pnpm install:*)",
+      "Bash(pnpm config set:*)",
+      "Bash(bootstrap.bat:*)"
+    ]
+  }
+}
