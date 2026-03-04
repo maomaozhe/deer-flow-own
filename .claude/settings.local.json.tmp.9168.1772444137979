@@ -16,8 +16,7 @@
       "Bash(cd web:*)",
       "Bash(cd:*)",
       "Bash(curl:*)",
-      "Bash(uv pip:*)",
-      "Bash(pnpm run:*)"
+      "Bash(uv pip:*)"
     ]
   }
 }
